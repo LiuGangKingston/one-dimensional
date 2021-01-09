@@ -1,0 +1,45 @@
+ For checking purpose ...
+ The the_period_min_force_l_on_r:  3.102361952322198
+ The the_min_force_l_on_r:  -5.769090532758405E-20  with loops of  47
+
+
+ Rigorous zero potential, force, and minimum force left on right: 
+ Rig zero single potential:  2.5
+ Rig zero single force:  2.8061551207734325
+ Rig period for min force from L on R:  3.11113765064952 i= 1
+ Rig period for min force from L on R:  3.103235005142127 i= 2
+ Rig period for min force from L on R:  3.1025379696833175 i= 3
+ Rig period for min force from L on R:  3.10241388513441 i= 4
+ Rig period for min force from L on R:  3.102381356903385 i= 5
+ Rig period for min force from L on R:  3.102370462845166 i= 6
+ Rig period for min force from L on R:  3.1023661433058574 i= 7
+ Rig period for min force from L on R:  +Inf i= 8
+ Cal period for min force from L on R:  3.102361952322198
+
+ Done in checks_and_special_points.
+
+ Working in calculate_period_vs_force:  1
+ Working in calculate_period_vs_force:  2
+ Working in calculate_period_vs_force:  3
+ Done in calculate_period_vs_force. 
+
+ Working in calculate_work_and_heat:  1
+ Working in calculate_work_and_heat:  2
+ Working in calculate_work_and_heat:  3
+ Done in calculate_work_and_heat.
+
+ Working in calculate_period_vs_temperature:  1
+ Working in calculate_period_vs_temperature:  2
+ Working in calculate_period_vs_temperature:  3
+ Working in calculate_period_vs_temperature:  4
+ Working in calculate_period_vs_temperature:  5
+ Done in calculate_period_vs_temperature: 
+
+ Working in work_and_heat_for_temperature:  1
+ Working in work_and_heat_for_temperature:  2
+ Working in work_and_heat_for_temperature:  3
+ Working in work_and_heat_for_temperature:  4
+ Working in work_and_heat_for_temperature:  5
+ Done in work_and_heat_for_temperature.
+
+ Finalizing done.
